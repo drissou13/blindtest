@@ -20,15 +20,7 @@ const songs = [
    { title: "Tomber-La-Chemise", artist: "zebda", src: "https://www.cjoint.com/doc/18_03/HCox256mosb_Zebda---Tomber-La-Chemise.mp3" },
   { title: "Clandestino", artist: "manu chao", src: "https://www.cjoint.com/doc/19_01/IADtv53znTV_Manu-Chao---Clandestino.mp3" },
   { title: "The Message", artist: "grand master flash", src: "https://www.cjoint.com/doc/22_12/LLipMwpwH1V_Grandmaster-Flash-The-Furious-Five---The-Message.mp3" },
-  { title: "Envole moi", artist: "jean jacques goldman", src: "https://www.cjoint.com/13ma/CCxmBYm2Zvx_goldman.mp3" },
-{ title: "c'est écrit", artist: "Francis cabrel", src: "https://www.cjoint.com/doc/22_01/LAudN7sllX5_cabrel-1-.mp3" },
-    { title: "pas le temps", artist: "faf larage ", src: "https://www.cjoint.com/doc/20_01/JAqi1CRmyRr_Faf-larage---Pas-le-temps.mp3" },
-    { title: "mon bled", artist: "rohff ", src: "https://www.cjoint.com/doc/19_03/ICbxRKM2Kl8_rohff-mohamed-lamine-chebba-maria-mon-bled.mp3" }
-    { "title": "bo le lavabo", "artist": "vincent lagaf ", src: "https://www.cjoint.com/doc/20_07/JGbsCgC1juV_Vincent-Lagaf---Bo-le-lavabo.mp3" }
-    { "title" : "la zoubida", "artist":"vincent lagaf ", src: "https://www.cjoint.com/doc/20_04/JDwmtcxqEOh_la-zoubida-vincent-lagaf-1991.mp3" }
-
-    
-];
+  ];
 
 ];
 
